@@ -1,0 +1,6 @@
+{
+  "scope": "x_376275_github_ap",
+  "scopeId": "1708a4032f7fcbd0c600e7ca6fa4e338",
+  "name": "GitHub App Repo",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
